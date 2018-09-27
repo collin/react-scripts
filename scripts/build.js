@@ -1,5 +1,5 @@
 
-process.env.NODE_ENV = 'production';
+//process.env.NODE_ENV = 'production';
 
 const webpack = require('webpack');
 const filesize = require('filesize');
